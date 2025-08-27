@@ -18,5 +18,6 @@ public class Aritmetica {
         //salida de datos
         System.out.println("la suma es:"+suma);
         System.out.println("la suma es:"+promedio);
+        System.out.println("resultado de la configuración:");
     }    
 }
